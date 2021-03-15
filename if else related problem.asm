@@ -1,6 +1,6 @@
 
-    ; Rabius Sani Jabiullah
-    ; United International University
+        ; Rabius Sani Jabiullah
+        ; United International University
 	; -----------------------------------------------------------------------------------------------------------------------------
 	
 	; assembly_emu8086_condition_if_else_related_problem
