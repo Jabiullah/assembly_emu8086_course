@@ -1,10 +1,4 @@
-.MODEL SMALL
-.STACK 100H
-.DATA   
-.CODE
-    MAIN PROC
-                
-    	; Rabius Sani Jabiullah
+	; Rabius Sani Jabiullah
     	; United International University
     	; -----------------------------------------------------------------------------------------------------------------------------
 	
@@ -14,6 +8,12 @@
 
         
     	;DIVITION CODE WITH REMAINDER 
+
+.MODEL SMALL
+.STACK 100H
+.DATA   
+.CODE
+    MAIN PROC
           
         MOV AL,9
         MOV BL,2
