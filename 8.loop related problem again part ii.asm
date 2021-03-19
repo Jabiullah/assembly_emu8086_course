@@ -21,7 +21,7 @@
         MOV AH,1   ; INPUT ONE VALUE.
         INT 21H 
         
-        CMP AL,20H ; ALWAYS DATA STORE IN 'AL' 
+        CMP AL,20H ; ALWAYS DATA STORE IN 'AL' , 20H IS THE HEXA VALUE OF BLANK CHARACTER.
         JE END     ; 'JUMP EQUAL' OCCURED TO END FUNCTION
         
         
