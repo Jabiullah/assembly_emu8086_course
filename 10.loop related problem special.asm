@@ -1,7 +1,7 @@
 				; Rabius Sani Jabiullah
     				; United International University
 				; -----------------------------------------------------------------------------------------------------------------------------
-	
+				
 				; assembly_emu8086_loop_related_problem
 				; -------------------------------------
 				; Question Plot
