@@ -1,7 +1,7 @@
 				; Rabius Sani Jabiullah
     				; United International University
 				; -----------------------------------------------------------------------------------------------------------------------------
-				; assembly_emu8086_nested_loop_related_problem
+				; assembly_emu8086_stack_related_problem
 				; --------------------------------------------
 				; Question Plot
 				; -------------
@@ -29,7 +29,7 @@
         POP DX      ; FIRST POP        
         MOV AH,2    ; OUTPUT IN DL
         INT 21H
-        
+       
         POP DX      ; SECOND POP
         
         MOV AH,2    ; OUTPUT IN DL
